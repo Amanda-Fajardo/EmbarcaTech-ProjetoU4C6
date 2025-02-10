@@ -41,7 +41,6 @@ cmake ..
 make
 ```
 5. Carregue o firmware no seu microcontrolador Raspberry Pi Pico.
-   ```
 
 6. **Utilização:**
     - Pressione os botões A e B para alternar o estado dos LEDs Verde e Azul, respectivamente.
