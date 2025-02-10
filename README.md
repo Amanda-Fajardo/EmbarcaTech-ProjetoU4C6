@@ -48,4 +48,4 @@ make
     - Se um caractere inválido for recebido, uma mensagem de erro será exibida no display SSD1306.
 
 ## Vídeo de demonstração
-``https://drive.google.com/drive/folders/1YytSCn2ZlWfwDoi0pivXSpDU8uNLYbwV?usp=sharing``
+https://drive.google.com/drive/folders/1YytSCn2ZlWfwDoi0pivXSpDU8uNLYbwV?usp=sharing
