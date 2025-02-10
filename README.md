@@ -46,3 +46,6 @@ make
     - Pressione os botões A e B para alternar o estado dos LEDs Verde e Azul, respectivamente.
     - Envie caracteres via UART para exibi-los no display SSD1306. Números serão exibidos tanto na matriz de LEDs WS2812 quanto no display SSD1306.
     - Se um caractere inválido for recebido, uma mensagem de erro será exibida no display SSD1306.
+
+## Vídeo de demonstração
+``https://drive.google.com/drive/folders/1YytSCn2ZlWfwDoi0pivXSpDU8uNLYbwV?usp=sharing``
